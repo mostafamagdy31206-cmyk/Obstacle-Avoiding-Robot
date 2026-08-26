@@ -7,6 +7,7 @@ An embedded, non-blocking robotic car powered by the ESP32 microcontroller. Cont
 
 ---
 <img width="382" height="306" alt="Screenshot 2026-08-26 150410" src="https://github.com/user-attachments/assets/f823003d-bc33-4438-bc9c-0a61b25b1a4c" />
+
 ## 📌 Features & Highlights
 
 - **Non-Blocking Architecture:** Built with `millis()` timing execution—zero `delay()` calls in main control loops to prevent UI/sensor freezing.
