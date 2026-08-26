@@ -1,12 +1,12 @@
 <img width="276" height="286" alt="Screenshot 2026-08-26 150347" src="https://github.com/user-attachments/assets/65858ac6-1807-43a3-a01b-509a5f471fbb" />
-<img width="367" height="350" alt="Screenshot 2026-08-26 150426" src="https://github.com/user-attachments/assets/2018a650-7230-49da-9664-93d747bd2161" />
-<img width="382" height="306" alt="Screenshot 2026-08-26 150410" src="https://github.com/user-attachments/assets/f823003d-bc33-4438-bc9c-0a61b25b1a4c" />
+
+
 # 🚗 ESP32 Bluetooth Smart Robotic Car with Dynamic Radar & Parking Assist
 
 An embedded, non-blocking robotic car powered by the ESP32 microcontroller. Controlled wirelessly via Bluetooth (`RoboTech`), this system features dynamic PWM speed mapping, intelligent obstacle braking, a servo-guided radar sweep, multi-frequency proximity alert beeps, and an automatic safety timeout mechanism.
 
 ---
-
+<img width="382" height="306" alt="Screenshot 2026-08-26 150410" src="https://github.com/user-attachments/assets/f823003d-bc33-4438-bc9c-0a61b25b1a4c" />
 ## 📌 Features & Highlights
 
 - **Non-Blocking Architecture:** Built with `millis()` timing execution—zero `delay()` calls in main control loops to prevent UI/sensor freezing.
@@ -19,6 +19,7 @@ An embedded, non-blocking robotic car powered by the ESP32 microcontroller. Cont
 - **Multi-Mode Lighting & Horn:** Independent toggle controls for Horn (`tone(3000)`), Flash lights, and Hazard/Waiting blinkers.
 
 ---
+<img width="367" height="350" alt="Screenshot 2026-08-26 150426" src="https://github.com/user-attachments/assets/2018a650-7230-49da-9664-93d747bd2161" />
 
 ## 🔌 Hardware Pin Mapping
 
