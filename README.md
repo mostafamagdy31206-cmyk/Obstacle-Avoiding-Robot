@@ -53,6 +53,4 @@ An embedded, non-blocking robotic car powered by the ESP32 microcontroller. Cont
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
